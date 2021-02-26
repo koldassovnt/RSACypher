@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RSACypher</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">RSA Cypher</string>
+    <string name="enter_your_plain_text">Enter your plain text</string>
+    <string name="encode">Encode</string>
+    <string name="decode">Decode</string>
+    <string name="private_title_sample">Private key Encryption/Decryption:</string>
+    <string name="private_text_sample">ASDFGHJBHKDSJGF</string>
+    <string name="private_text_time">23ms</string>
+    <string name="private_time_title">Private key Encryption/Decryption time:</string>
+    <string name="public_title_sample">Public key Encryption/Decryption:</string>
+    <string name="public_text_sample">Hello Mister</string>
+    <string name="public_time_title">Public key Encryption/Decryption time:</string>
+    <string name="public_text_time">56ms</string>
+    <string name="run">RUN</string>
+</resources>
